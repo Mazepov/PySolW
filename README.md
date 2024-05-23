@@ -1,0 +1,2 @@
+# PySolW
+Python and SolidWorks
